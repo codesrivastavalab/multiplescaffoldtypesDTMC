@@ -8,6 +8,8 @@
   3. _Dr. Sreeja Kutti Kandy_ (IITM & University of Pennsylvania)
   4. _Dr. Allan G. Hansen_ (MEMPHYS)
   5. _Prof. Ravi Radhakrishnan_ (University of Pennsylvania)
+  6. _Prof. Anand Srivastava (IISc Bangalore)  - Multiple Nematics (JCTC 2022)
+  7. _Dr. Gaurav Kumar (IISc Bangalore) - Multiple Nematics (JCTC 2022)
 
 ```Bug reports and queries may be directed to: ``` _nrkssa@gmail.com_
 
